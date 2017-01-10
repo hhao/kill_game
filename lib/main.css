@@ -128,7 +128,7 @@
 		font:bold 24px "Microsoft YaHei";
 		color: white;
 	}
-	#recieve_button {
+	#hide_button {
 		width: 130px;
 		height: 56px;
 		margin: 5px;
@@ -139,7 +139,22 @@
 		display: inline-block;
 		vertical-align: top;
 	}
-	#recieve_button a {
+	#hide_button span {
+		font:bold 24px "Microsoft YaHei";
+		color: white;
+	}
+	#show_button {
+		width: 130px;
+		height: 56px;
+		margin: 5px;
+		background: #FF8C00;
+		border-radius: 10px;
+		text-align: center;
+		line-height: 64px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	#show_button span {
 		font:bold 24px "Microsoft YaHei";
 		color: white;
 	}
