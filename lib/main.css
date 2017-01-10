@@ -26,6 +26,9 @@
 		z-index: 2;
 	}
 
+	.person_head {
+		background: #cccccc
+	}
 	.person_head ul {
 		width: 80px;
 		position: absolute;
@@ -95,6 +98,52 @@
 		font:bold 14px "Microsoft YaHei";
 		color: white;
 	}
+	#cover_button {
+		width: 130px;
+		height: 56px;
+		margin: 5px;
+		background: #FF8C00;
+		border-radius: 10px;
+		text-align: center;
+		line-height: 64px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	#cover_button span {
+		font:bold 24px "Microsoft YaHei";
+		color: white;
+	}
+	#check_button {
+		width: 130px;
+		height: 56px;
+		margin: 5px;
+		background: #FF8C00;
+		border-radius: 10px;
+		text-align: center;
+		line-height: 64px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	#check_button span {
+		font:bold 24px "Microsoft YaHei";
+		color: white;
+	}
+	#recieve_button {
+		width: 130px;
+		height: 56px;
+		margin: 5px;
+		background: #FF8C00;
+		border-radius: 10px;
+		text-align: center;
+		line-height: 64px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	#recieve_button a {
+		font:bold 24px "Microsoft YaHei";
+		color: white;
+	}
+
 	#handle {
 		text-align: center;
 
